@@ -2,7 +2,7 @@
 
 The Smart Traffic Management System is a project aimed at developing an intelligent traffic management system using computer vision, machine learning, and algorithmic optimization techniques. The system consists of three main modules: Vehicle Detection, Signal Switching Algorithm, and Visualization.
 
-## 📋 Overview.....
+## 📋 Overview
 
 ### 🚗 Vehicle Detection Module
 
