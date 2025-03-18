@@ -41,6 +41,9 @@ The **AI-Powered Smart Traffic Management System** is an advanced solution desig
 
 ## 🎮 **Simulation Demo**
 
+![Traffic Simulation](Demo.gif)
+
+
 ## 📌 Installation & Setup
 
 ### 1️⃣ Clone the Repository  
